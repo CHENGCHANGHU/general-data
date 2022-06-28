@@ -1,0 +1,23 @@
+{
+  "name": "general-data",
+  "version": "1.0.0",
+  "description": "通用数据（不定期更新）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHENGCHANGHU/general-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CHENGCHANGHU/general-data/issues"
+  },
+  "homepage": "https://github.com/CHENGCHANGHU/general-data#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
